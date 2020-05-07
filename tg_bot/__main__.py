@@ -38,7 +38,7 @@ Want to add me to your chat? [Click here!](http://telegram.me/Sabrina_RoBot?star
 
 HELP_STRINGS = """
 
-Hey! My name is Rose. I am a group management bot, here to help you get around and keep the order in your groups!
+Hey! My name is Sabrina . I am a group management bot, here to help you get around and keep the order in your groups!
 I have lots of handy features, such as flood control, a warning system, a note keeping system, and even predetermined replies on certain keywords.
 
 Helpful commands:
